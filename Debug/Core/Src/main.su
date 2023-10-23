@@ -1,0 +1,5 @@
+D:/STM32_Workspace_Blog/JSON_parser_via_UART/Core/lwjson/src/include/lwjson/lwjson.h:279:1:lwjson_get_val_string	16	static
+../Core/Src/main.c:70:5:main	24	static
+../Core/Src/main.c:180:6:SystemClock_Config	96	static
+../Core/Src/main.c:226:6:HAL_UARTEx_RxEventCallback	16	static
+../Core/Src/main.c:241:6:Error_Handler	4	static,ignoring_inline_asm

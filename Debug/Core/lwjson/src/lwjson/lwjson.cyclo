@@ -1,0 +1,14 @@
+lwjson.c:52:1:prv_alloc_token	2
+lwjson.c:66:1:prv_skip_blank	12
+lwjson.c:107:1:prv_parse_string	22
+lwjson.c:169:1:prv_parse_property_name	5
+lwjson.c:200:1:prv_parse_number	34
+lwjson.c:288:1:prv_create_path_segment	10
+lwjson.c:339:1:prv_find	20
+lwjson.c:412:1:prv_check_valid_char_after_open_bracket	17
+lwjson.c:436:1:lwjson_init	1
+lwjson.c:454:1:lwjson_parse_ex	59
+lwjson.c:656:1:lwjson_parse	1
+lwjson.c:666:1:lwjson_free	1
+lwjson.c:680:1:lwjson_find	5
+lwjson.c:699:1:lwjson_find_ex	9

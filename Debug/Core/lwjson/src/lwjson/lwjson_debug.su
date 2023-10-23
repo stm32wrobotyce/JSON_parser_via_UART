@@ -1,0 +1,4 @@
+D:/STM32_Workspace_Blog/JSON_parser_via_UART/Core/lwjson/src/include/lwjson/lwjson.h:279:1:lwjson_get_val_string	16	static
+../Core/lwjson/src/lwjson/lwjson_debug.c:51:1:prv_print_token	32	static
+../Core/lwjson/src/lwjson/lwjson_debug.c:120:1:lwjson_print_token	24	static
+../Core/lwjson/src/lwjson/lwjson_debug.c:131:1:lwjson_print_json	24	static

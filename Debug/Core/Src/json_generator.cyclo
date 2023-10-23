@@ -1,0 +1,10 @@
+json_generator.c:5:6:json_init	4
+json_generator.c:22:6:json_open_object	4
+json_generator.c:42:6:json_close_object	5
+json_generator.c:68:6:json_open_array	4
+json_generator.c:88:6:json_close_array	5
+json_generator.c:114:6:json_add_string	6
+json_generator.c:137:6:json_add_integer	5
+json_generator.c:160:6:json_add_boolean	6
+json_generator.c:184:6:json_add_null	5
+json_generator.c:206:6:json_end	5

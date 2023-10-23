@@ -1,0 +1,10 @@
+../Core/Src/json_generator.c:5:6:json_init	24	static
+../Core/Src/json_generator.c:22:6:json_open_object	16	static
+../Core/Src/json_generator.c:42:6:json_close_object	16	static
+../Core/Src/json_generator.c:68:6:json_open_array	16	static
+../Core/Src/json_generator.c:88:6:json_close_array	16	static
+../Core/Src/json_generator.c:114:6:json_add_string	40	static
+../Core/Src/json_generator.c:137:6:json_add_integer	40	static
+../Core/Src/json_generator.c:160:6:json_add_boolean	48	static
+../Core/Src/json_generator.c:184:6:json_add_null	24	static
+../Core/Src/json_generator.c:206:6:json_end	16	static

@@ -1,0 +1,14 @@
+../Core/lwjson/src/lwjson/lwjson.c:52:1:prv_alloc_token	16	static
+../Core/lwjson/src/lwjson/lwjson.c:66:1:prv_skip_blank	16	static
+../Core/lwjson/src/lwjson/lwjson.c:107:1:prv_parse_string	40	static
+../Core/lwjson/src/lwjson/lwjson.c:169:1:prv_parse_property_name	24	static
+../Core/lwjson/src/lwjson/lwjson.c:200:1:prv_parse_number	48	static
+../Core/lwjson/src/lwjson/lwjson.c:288:1:prv_create_path_segment	32	static
+../Core/lwjson/src/lwjson/lwjson.c:339:1:prv_find	64	static
+../Core/lwjson/src/lwjson/lwjson.c:412:1:prv_check_valid_char_after_open_bracket	24	static
+../Core/lwjson/src/lwjson/lwjson.c:436:1:lwjson_init	24	static
+../Core/lwjson/src/lwjson/lwjson.c:454:1:lwjson_parse_ex	56	static
+../Core/lwjson/src/lwjson/lwjson.c:656:1:lwjson_parse	16	static
+../Core/lwjson/src/lwjson/lwjson.c:666:1:lwjson_free	16	static
+../Core/lwjson/src/lwjson/lwjson.c:680:1:lwjson_find	16	static
+../Core/lwjson/src/lwjson/lwjson.c:699:1:lwjson_find_ex	24	static
